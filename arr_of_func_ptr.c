@@ -1,4 +1,4 @@
-/* C program to demonstrate usage of a fucntion pointer */
+/* C program to demonstrate usage of array of function pointers */
 
 #include<stdio.h>
 
